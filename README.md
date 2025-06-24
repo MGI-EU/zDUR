@@ -32,6 +32,17 @@ You can download precompiled binaries directly from the [Releases](../../release
 This software is released under a **non-commercial use license**. A valid license key is required to use the tool.
 
 * **If you intend to use this tool for academic or research purposes**, please [contact us](#support--contacts) to request a license.
+
+To help us process your request efficiently, please use your institutional email address and include the following information:
+
+- Your full name
+
+- Institution or organization name
+
+- Department or research group (if applicable)
+
+- Intended use
+
 * **Commercial use is strictly prohibited** without explicit permission.
 
 When you run the binary for the first time, you will be prompted to input your license key:
