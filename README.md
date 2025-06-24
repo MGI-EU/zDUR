@@ -31,9 +31,7 @@ You can download precompiled binaries directly from the [Releases](../../release
 
 This software is released under a **non-commercial use license**. A valid license key is required to use the tool.
 
-**If you intend to use this tool for academic or research purposes**, please [contact us](#support--contacts) to request a license.
-
-We offer free academic licenses valid for 6 months, which can be renewed upon request.
+**If you intend to use this tool for academic or research purposes**, please [contact us](#support--contacts) to request a license. We offer free academic licenses valid for 6 months, which can be renewed upon request.
 
 To help us process your request efficiently, please use your institutional email address and include the following information:
 
