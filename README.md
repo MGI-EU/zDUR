@@ -33,6 +33,8 @@ This software is released under a **non-commercial use license**. A valid licens
 
 **If you intend to use this tool for academic or research purposes**, please [contact us](#support--contacts) to request a license.
 
+We offer free academic licenses valid for 6 months, which can be renewed upon request.
+
 To help us process your request efficiently, please use your institutional email address and include the following information:
 
 - Your full name
@@ -41,7 +43,7 @@ To help us process your request efficiently, please use your institutional email
 
 - Department or research group (if applicable)
 
-- Intended use
+- Intended use (e.g. expected application scenario, data type, and approximate data volume)
 
 **Commercial use is strictly prohibited** without explicit permission.
 
@@ -52,8 +54,7 @@ zDUR
 > Please enter your license key:
 ```
 
-To request a free academic license, please email: **[dingrenpeng@genomics.cn](mailto:dingrenpeng@genomics.cn)**
-or open an issue at: [GitHub Issues](../../issues)
+To request a free academic license, please email: **[mgi_bit_eu@mgi-tech.com](mailto:mgi_bit_eu@mgi-tech.com)**
 
 ---
 
@@ -162,7 +163,6 @@ In addition to conforming to the fastq format, input files must meet the followi
 
 In case you experience problems with zDUR software or just want to chat, feel free to create an issue 
 in [the official repository](https://gitee.com/MGI-EU-AF/zdurilcas) or contact developers directly at:
-- [artyomershov@genomics.cn](mailto:artyomershov@genomics.cn) (in English)
-- [dingrenpeng@genomics.cn](mailto:dingrenpeng@genomics.cn) (in Chinese)
+- [mgi_bit_eu@mgi-tech.com](mailto:mgi_bit_eu@mgi-tech.com)
 
 We guarantee that any data provided to us will only be used for purpose of debugging zDUR.
