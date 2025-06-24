@@ -127,6 +127,6 @@ In addition to conforming to the fastq format, input files must meet the followi
 In case you experience problems with zDUR software or just want to chat, feel free to create an issue 
 in [the official repository](https://gitee.com/MGI-EU-AF/zdurilcas) or contact developers directly at:
 - [artyomershov@genomics.cn](mailto:artyomershov@genomics.cn) (in English)
-- [fuqian@genomics.cn](mailto:fuqian@genomics.cn) (in Chinese)
+- [dingrenpeng@genomics.cn](mailto:dingrenpeng@genomics.cn) (in Chinese)
 
 We guarantee that any data provided to us will only be used for purpose of debugging zDUR.
