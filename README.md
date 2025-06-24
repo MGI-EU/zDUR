@@ -75,7 +75,8 @@ sudo mv zDUR /usr/local/bin/
 Then you can run it via:
 
 ```bash
-zDUR --help
+zDUR --help        # Basic usage and common options
+zDUR --help-all    # Full list of all parameters
 ```
 
 ---
