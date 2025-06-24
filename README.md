@@ -35,8 +35,11 @@ After downloading the binary for your platform:
 # Give executable permission
 chmod +x zDUR-<arch-platform>
 
+# Rename to 'zDUR' for simplicity
+mv zDUR-<arch-platform> zDUR
+
 # (Optional) Move to PATH
-sudo mv zDUR-<arch-platform> /usr/local/bin/zDUR
+sudo mv zDUR /usr/local/bin/
 ```
 
 Then you can run it via:
