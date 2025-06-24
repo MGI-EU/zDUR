@@ -11,11 +11,47 @@ Reference-free compression tool for NGS data.
 
 ## <a name="install"></a>Installation
 
+
+
+You can download precompiled binaries directly from the [Releases](../../releases) page.
+
+### Platform-specific Binaries
+
+| Platform        | Binary Name      | 
+| --------------- | ---------------- | 
+| Linux (x86\_64) | `zDUR-x86-linux` | 
+| Linux (ARM64)   | `zDUR-arm-linux` | 
+| macOS (ARM64)   | `zDUR-arm-mac`   | 
+| macOS (x86\_64) | `zDUR-x86-mac`   | 
+
+
+---
+
+### Quick Setup
+
+After downloading the binary for your platform:
+
 ```bash
-# to be added
+# Give executable permission
+chmod +x zDUR-<arch-platform>
+
+# (Optional) Move to PATH
+sudo mv zDUR-<arch-platform> /usr/local/bin/zDUR
 ```
 
-The only dependencies are zlib and gcc with C++17 support.
+Then you can run it via:
+
+```bash
+zDUR --help
+```
+
+---
+
+### Requirements
+
+* No installation needed.
+* Dependencies: `zlib` and a standard system with **C++17-compatible libc/gcc**.
+
 
 ## <a name="usage"></a>Usage
 
