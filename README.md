@@ -1,4 +1,4 @@
-# zDURILCAs: **D**ifferential **U**niveRsal **I**nte**L**legent **C**ompression **A**lgorithm for sequencing data
+# zDUR: Reference-free FASTQ compressor with high compression ratio and speed
 
 Reference-free compression tool for NGS data.
 
