@@ -66,9 +66,6 @@ chmod +x zDUR-<arch-platform>
 
 # Rename to 'zDUR' for simplicity
 mv zDUR-<arch-platform> zDUR
-
-# (Optional) Move to PATH
-sudo mv zDUR /usr/local/bin/
 ```
 
 Then you can run it via:
