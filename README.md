@@ -48,8 +48,8 @@ To help us process your request efficiently, please use your institutional email
 When you run the binary for the first time, you will be prompted to input your license key:
 
 ```bash
-zDUR
-> Please enter your license key:
+zDUR c-simtree
+> Please enter your license key: 
 ```
 
 To request a free academic license, please email: **[mgi_bit_eu@mgi-tech.com](mailto:mgi_bit_eu@mgi-tech.com)**
