@@ -82,7 +82,15 @@ zDUR --help-all    # Full list of all parameters
 * No installation needed.
 * Dependencies: `zlib` and a standard system with **C++17-compatible libc/gcc**.
 
+### 🧪 Test Data
 
+To verify that `zDUR` is functioning correctly, you can run a quick test using the example FASTQ files provided in the [`test_data`](./test_data) directory.
+
+These test files include:
+- `Illumina.Novaseq_150bp_5x_1.fastq`
+- `Illumina.Novaseq_150bp_5x_2.fastq`
+- `SRR22543904_downsampled_1.fastq`
+- `SRR22543904_downsampled_2.fastq`
 
 
 ## <a name="usage"></a>Usage
@@ -101,10 +109,10 @@ All commands can work with gzip-compressed input.
 Examples for SE data:
 ```bash
 # compress with Similarity Tree algorithm
-./zDUR c-simtree --i1 reads.fastq --threads 4 -o archive.zdur
+./zDUR c-simtree --i1 Illumina.Novaseq_150bp_5x_1.fastq --threads 4 -o archive.zdur
 
 # compress with entropy coding
-./zDUR c-fast --i1 reads.fastq --threads 4 -o archive.zdur 
+./zDUR c-fast --i1 Illumina.Novaseq_150bp_5x_1.fastq --threads 4 -o archive.zdur 
 
 # decompress to file 
 ./zDUR d --input archive.zdur --threads 4 -o decompressed_reads.fastq 
@@ -116,7 +124,7 @@ Examples for SE data:
 Examples for PE data and reads with barcodes:
 ```bash
 # compress with Similarity Tree algorithm 
-./zDUR c-simtree --i1 reads1.fastq --i2 reads2.fastq --threads 4 -o archive.zdur
+./zDUR c-simtree --i1 Illumina.Novaseq_150bp_5x_1.fastq --i2 Illumina.Novaseq_150bp_5x_2.fastq --threads 4 -o archive.zdur
 
 # compress with Similarity Tree algorithm treating reads passed to --i1 as barcodes
 ./zDUR c-stereoseq --i1 reads1.fastq --i2 reads2.fastq --threads 4 -o archive.zdur
