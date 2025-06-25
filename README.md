@@ -82,7 +82,7 @@ zDUR --help-all    # Full list of all parameters
 * No installation needed.
 * Dependencies: `zlib` and a standard system with **C++17-compatible libc/gcc**.
 
-### 🧪 Test Data
+### Test Data
 
 To verify that `zDUR` is functioning correctly, you can run a quick test using the example FASTQ files provided in the [`test_data`](./test_data) directory.
 
