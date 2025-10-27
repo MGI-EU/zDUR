@@ -171,7 +171,7 @@ in [the official repository](https://gitee.com/MGI-EU-AF/zdurilcas) or contact d
 We guarantee that any data provided to us will only be used for purpose of debugging zDUR.
 
 
-🧩 Author Contributions
+## <a name="Contributions"></a>Contributions
 
 Artem Ershov – Methodology (lead), investigation, software development (lead), data curation, writing of the original draft.
 Renpeng Ding – Conceptualization, investigation, project administration, writing (review & editing).
