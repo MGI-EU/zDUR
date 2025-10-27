@@ -169,3 +169,16 @@ in [the official repository](https://gitee.com/MGI-EU-AF/zdurilcas) or contact d
 - [mgi_bit_eu@mgi-tech.com](mailto:mgi_bit_eu@mgi-tech.com)
 
 We guarantee that any data provided to us will only be used for purpose of debugging zDUR.
+
+
+🧩 Author Contributions
+
+Artem Ershov – Methodology (lead), investigation, software development (lead), data curation, writing of the original draft.
+Renpeng Ding – Conceptualization, investigation, project administration, writing (review & editing).
+Qian Fu – Software development, data curation, resources, validation, visualization.
+Ivan Kozlov – Software development, methodology.
+Ekaterina Fadeeva – Software development, investigation, methodology.
+Evgeniy Mozheiko – Software development, investigation, methodology.
+Ming Ni – Funding acquisition, supervision.
+Yong Hou – Funding acquisition, supervision.
+Yan Zhou – Conceptualization, supervision, project administration, writing (review & editing).
